@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sam.
-- 👀 I’m interested in Applications of Computer Science in History and Voting.
+- 👀 I’m interested in Applications of Computer Science in History and Digital Democracy.
 - 🌱 I’m currently pursuing a degree in Computer Science
 - 📫 How to reach me (https://www.samormanchan.dev/contact)
 
